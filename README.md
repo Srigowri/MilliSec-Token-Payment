@@ -1,6 +1,6 @@
 # Payment Streams
 
-### Introduction
+### About
 
 Imagine if payments could be made every millisecond instead of being sent at the end of a week or a month or a quarter. `Payment Streams` allows users to stream funds to another account. 
 
